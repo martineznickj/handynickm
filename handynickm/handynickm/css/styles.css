@@ -1,0 +1,33 @@
+body {
+  background-image: url("../images/tools.jpg");
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 4.5rem;
+  background: #baf3f5;
+  opacity: .8;
+}
+
+
+
+
+
+/* First Section */
+.first {
+
+  margin-top: 7rem;
+  border: 7% 15%;
+  background: #fff;
+  opacity: .8;
+}
+
+/* Contact Me */
+
+.contact-me {
+  margin-top: 7rem;
+  margin-left: 70rem;
+  opacity: .8;
+}
